@@ -8,7 +8,7 @@
 I'm a Developer at Microsoft and contribute to community code in my free time!
 
 Current projects:
-[https://github.com/](https://github.com/opencv/opencv)
+https://github.com/opencv/opencv
 
 
 <!--
